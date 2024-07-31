@@ -42,7 +42,7 @@ const SingleCategory = () => {
         productFilter.push('All', 'Scifi', 'Business', 'Mystery', 'Cookbooks', 'Accessories', 'Price Low To High', 'Price High To Low', 'High Rated', 'Low Rated')
     }
     else if (cat === 'cloths') {
-        productFilter.push('All', 'Men', 'Women', 'Price Low To High', 'Price High To Low', 'High Rated', 'Low Rated')
+        productFilter.push('All', 'Brand01', 'Brand02', 'Brand03', 'Brand04', 'Brand05', 'Brand06')
     }
     else if (cat === 'shoe') {
         productFilter.push('All', 'Running', 'Football', 'Formal', 'Casual', 'Price Low To High', 'Price High To Low', 'High Rated', 'Low Rated')
